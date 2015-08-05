@@ -1,0 +1,5 @@
+C:\Users\Asaf\Documents\C#Projects\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloLogic\obj\Debug\Ex05.OthelloLogic.csprojResolveAssemblyReference.cache
+C:\Users\Asaf\Documents\C#Projects\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloLogic\bin\Debug\Ex05.OthelloLogic.dll
+C:\Users\Asaf\Documents\C#Projects\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloLogic\bin\Debug\Ex05.OthelloLogic.pdb
+C:\Users\Asaf\Documents\C#Projects\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloLogic\obj\Debug\Ex05.OthelloLogic.dll
+C:\Users\Asaf\Documents\C#Projects\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloLogic\obj\Debug\Ex05.OthelloLogic.pdb

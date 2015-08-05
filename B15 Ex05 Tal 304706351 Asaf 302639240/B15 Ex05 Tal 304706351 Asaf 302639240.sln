@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05.OthelloLogic", "Ex05.OthelloLogic\Ex05.OthelloLogic.csproj", "{8B12F04E-1B88-42F8-BA49-0CC967FA9EA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05.OthelloWindowsUI", "Ex05.OthelloWindowsUI\Ex05.OthelloWindowsUI.csproj", "{5CE1AF55-872D-45CE-AC02-C414602A42C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B12F04E-1B88-42F8-BA49-0CC967FA9EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B12F04E-1B88-42F8-BA49-0CC967FA9EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B12F04E-1B88-42F8-BA49-0CC967FA9EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B12F04E-1B88-42F8-BA49-0CC967FA9EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CE1AF55-872D-45CE-AC02-C414602A42C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE1AF55-872D-45CE-AC02-C414602A42C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE1AF55-872D-45CE-AC02-C414602A42C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE1AF55-872D-45CE-AC02-C414602A42C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

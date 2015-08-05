@@ -1,0 +1,22 @@
+C:\Users\Asaf\Documents\C#Projects\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloWindowsUI\bin\Debug\Ex05.OthelloWindowsUI.exe
+C:\Users\Asaf\Documents\C#Projects\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloWindowsUI\bin\Debug\Ex05.OthelloWindowsUI.pdb
+C:\Users\Asaf\Documents\C#Projects\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloWindowsUI\obj\Debug\Ex05.OthelloWindowsUI.csprojResolveAssemblyReference.cache
+C:\Users\Asaf\Documents\C#Projects\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloWindowsUI\obj\Debug\Ex05.OthelloWindowsUI.Properties.Resources.resources
+C:\Users\Asaf\Documents\C#Projects\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloWindowsUI\obj\Debug\Ex05.OthelloWindowsUI.csproj.GenerateResource.Cache
+C:\Users\Asaf\Documents\C#Projects\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloWindowsUI\obj\Debug\Ex05.OthelloWindowsUI.exe
+C:\Users\Asaf\Documents\C#Projects\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloWindowsUI\obj\Debug\Ex05.OthelloWindowsUI.pdb
+C:\Users\Asaf\Documents\C#Projects\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloWindowsUI\obj\Debug\Ex05.OthelloWindowsUI.OthelloSettingsForm.resources
+C:\Users\Asaf\Documents\C#Projects\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloWindowsUI\bin\Debug\Ex05.OthelloLogic.dll
+C:\Users\Asaf\Documents\C#Projects\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloWindowsUI\bin\Debug\Ex05.OthelloLogic.pdb
+C:\Users\Asaf\Documents\C#Projects\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloWindowsUI\obj\Debug\Ex05.OthelloWindowsUI.OthelloMainGameForm.resources
+C:\Users\Tal\Desktop\מדעי המחשב\NET\Ex05\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloWindowsUI\obj\Debug\Ex05.OthelloWindowsUI.exe
+C:\Users\Tal\Desktop\מדעי המחשב\NET\Ex05\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloWindowsUI\obj\Debug\Ex05.OthelloWindowsUI.pdb
+C:\Users\Tal\Desktop\מדעי המחשב\NET\Ex05\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloWindowsUI\bin\Debug\Ex05.OthelloWindowsUI.exe
+C:\Users\Tal\Desktop\מדעי המחשב\NET\Ex05\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloWindowsUI\bin\Debug\Ex05.OthelloWindowsUI.pdb
+C:\Users\Tal\Desktop\מדעי המחשב\NET\Ex05\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloWindowsUI\bin\Debug\Ex05.OthelloLogic.dll
+C:\Users\Tal\Desktop\מדעי המחשב\NET\Ex05\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloWindowsUI\bin\Debug\Ex05.OthelloLogic.pdb
+C:\Users\Tal\Desktop\מדעי המחשב\NET\Ex05\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloWindowsUI\obj\Debug\Ex05.OthelloWindowsUI.csprojResolveAssemblyReference.cache
+C:\Users\Tal\Desktop\מדעי המחשב\NET\Ex05\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloWindowsUI\obj\Debug\Ex05.OthelloWindowsUI.OthelloMainGameForm.resources
+C:\Users\Tal\Desktop\מדעי המחשב\NET\Ex05\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloWindowsUI\obj\Debug\Ex05.OthelloWindowsUI.OthelloSettingsForm.resources
+C:\Users\Tal\Desktop\מדעי המחשב\NET\Ex05\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloWindowsUI\obj\Debug\Ex05.OthelloWindowsUI.Properties.Resources.resources
+C:\Users\Tal\Desktop\מדעי המחשב\NET\Ex05\B15 Ex05 Tal 304706351 Asaf 302639240\Ex05.OthelloWindowsUI\obj\Debug\Ex05.OthelloWindowsUI.csproj.GenerateResource.Cache
